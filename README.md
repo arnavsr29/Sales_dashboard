@@ -27,4 +27,5 @@ More detailed sub-category analysis: Adding a drill-down feature to further expl
 Time frame flexibility: Allowing users to change the time frame for the monthly profit chart.<br/>
 Customer segmentation: Adding a segment for high-value customers or customer lifetime value analysis.<br/>
 Trend analysis: Adding trend lines to the monthly profit chart to visualize long-term sales patterns.<br/>
+<br/>
 Overall, this dashboard provides a good starting point for sales performance analysis.<br/>
