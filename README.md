@@ -2,7 +2,7 @@
 
 
 
-![Screenshot 2024-07-30 163831](https://github.com/user-attachments/assets/20170358-06a5-4d66-814a-04d3546526ee)
+![Sales_Dahboard](https://github.com/user-attachments/assets/20170358-06a5-4d66-814a-04d3546526ee)
 
 This Power BI dashboard provides a comprehensive overview of sales performance, breaking down key metrics by different dimensions like sub-category, payment mode, customer name, and month.<br/>
 <br/>
